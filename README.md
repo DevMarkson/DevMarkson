@@ -9,7 +9,7 @@
 * 🧠  I'm a passionate self taught Software developer and Chess Enthusiast.
 * 🌍  I'm currently a Computer science student, @University of Ibadan, Nigeria.
 * ✉️  You can contact me at [marksonfrosh@gmail.com](mailto:marksonfrosh@gmail.com)
-* 🤝  I'm open to collaborating on HTML, CSS and Python(Django) projects!
+* 🤝  I'm open to collaborating on HTML, CSS, Javascript, React and Python(Django) projects!
 
 
 ------------------------------------------------------------------------------------
