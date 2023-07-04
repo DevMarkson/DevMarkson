@@ -9,7 +9,7 @@
 * 🧠  I'm a self-taught software developer with a deep passion for coding and an avid interest in chess.
 * 🧠  In addition to my studies in Computer Science at the University of Ibadan, I'm also a software engineering student at ALX Africa. 
 * ✉️  You can contact me at [marksonfrosh@gmail.com](mailto:marksonfrosh@gmail.com)
-* 🤝  If you're looking for a motivated collaborator to join your team, I'm happy to contribute my skills in HTML, CSS, JavaScript, React, and Python (specifically, the Django framework). I believe in building robust, user-friendly applications that can solve real-world problems.
+* 🤝  If you're looking for a motivated collaborator to join your team, I'm happy to contribute my skills in HTML, CSS, JavaScript, React, Node.js and Python (specifically, the Django framework). I believe in building robust, user-friendly applications that can solve real-world problems.
 ------------------------------------------------------------------------------------
 
 ### Skills
