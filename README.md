@@ -1,4 +1,4 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com?size=25&color=2296F7&background=C6CBFF00&center=true&vCenter=true&width=500&lines=Hello+there!+I'm+Markson+%F0%9F%91%8B;I+am+a+Software+Developer+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB;I+love+solving+programming+problems+;I+write+clean+codes+%F0%9F%92%BB" width="100%"/>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?size=25&color=2296F7&background=C6CBFF00&center=true&vCenter=true&width=500&lines=Hello+there!+I'm+Markson+%F0%9F%91%8B;I+am+a+Software+Engineer+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB;I+love+solving+programming+problems+;I+write+clean+codes+%F0%9F%92%BB" width="100%"/>
 
 ------------------------------------------------------------------------------------
 
@@ -6,7 +6,7 @@
 ### About Me😎
 
 
-* 🧠  I'm a self-taught software developer with a deep passion for coding and an avid interest in chess.
+* 🧠  I'm a self-taught software Engineer with a deep passion for coding and an avid interest in chess.
 * 🧠  In addition to my studies in Computer Science at the University of Ibadan, I'm also a software engineering student at ALX Africa. 
 * ✉️  You can contact me at [marksonfrosh@gmail.com](mailto:marksonfrosh@gmail.com)
 * 🤝  If you're looking for a motivated collaborator to join your team, I'm happy to contribute my skills in HTML, CSS, JavaScript, React, Node.js, and Python (specifically, the Django framework). I believe in building robust, user-friendly applications that can solve real-world problems.
