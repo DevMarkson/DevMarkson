@@ -45,7 +45,9 @@
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevMarkson&theme=highcontrast&hide_border=true" alt="DevMarkson" />
 
+<--
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=DevMarkson&bg_color=000000&color=00b3ff&line=00b3ff&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+-->
  
 </p>
 
