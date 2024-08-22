@@ -1,16 +1,14 @@
+<!--
 <img align="center" src="https://readme-typing-svg.herokuapp.com?size=20&color=2296F7&background=C6CBFF00&center=true&vCenter=true&width=500&lines=Hello+there!+I'm+Markson+%F0%9F%91%8B;I+am+a+Software+Engineer+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB;I+love+solving+programming+problems+;I+write+clean+codes+%F0%9F%92%BB" width="100%"/>
-
 ------------------------------------------------------------------------------------
-
-
+-->
+ 
 ### About Me👨‍💻
 
 
-* ✨ I am Favour Markson
+* ✨ Hello, I am Favour Markson
 * 👨‍💻 I consistently strive to write and improve scalable content for brands and companies, bringing a strong aptitude for analytical thinking, disciplined problem-solving, and effective communication.
 * 🎓 I am pursuing a Computer Science degree at the University of Ibadan and hold an associate degree in software engineering from ALX Africa.
-* ✉️  You can contact me at [marksonfrosh@gmail.com](mailto:marksonfrosh@gmail.com)
-* 🤝  If you're looking for a motivated collaborator, I'm ready to contribute my skills in HTML, CSS, JavaScript, React, Node.js, and Python (with a focus on the Django framework). I am committed to building robust, user-friendly applications that address real-world challenges.
 
 <!--
 ### Skills
