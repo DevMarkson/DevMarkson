@@ -7,8 +7,8 @@
 
 
 * ✨ Hello, I am Favour Markson
-* 👨‍💻 I consistently strive to write and improve scalable content for brands and companies, bringing a strong aptitude for analytical thinking, disciplined problem-solving, and effective communication.
-* 🎓 I am pursuing a Computer Science degree at the University of Ibadan and hold an associate degree in software engineering from ALX Africa.
+* 👨‍💻 With a strong aptitude for analytical thinking, disciplined problem-solving, and clear communication, I consistently aim to create and refine scalable software and content for brands and companies.
+* 🎓 I am pursuing a Computer Science degree at the University of Ibadan and hold an associate degree in Software Engineering from ALX Africa.
 
 <!--
 ### Skills
